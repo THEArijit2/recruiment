@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IEEE JUSB Recruitment Drive</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+	<!-- Navigation Bar -->
+	<div class="navbar">
+		<a href="#" class="active">Home</a>
+		<a href="#about">About Us</a>
+		<div class="dropdown">
+			<button class="dropbtn">Teams 
+				<i class="fa fa-caret-down"></i>
+			</button>
+			<div class="dropdown-content">
+				<a href="#technical-team">Technical Team</a>
+				<a href="#event-management-team">Event Management Team</a>
+				<a href="#public-relations-team">Public Relations Team</a>
+				<a href="#design-team">Design Team</a>
+			</div>
+		</div>
+		<a href="#contact-us">Contact Us</a>
+	</div>
+
+	<!-- Home Section -->
+	<div class="home-section">
+		<h1>Welcome to the IEEE JUSB Recruitment Drive!</h1>
+		<p>We are excited to have you here and are looking forward to welcoming new members to our family. Here at IEEE JUSB, we strive to provide a platform for students to enhance their technical, management, and leadership skills through various events and activities. Join us and be a part of this amazing journey!</p>
+	</div>
+
+	<!-- About Us Section -->
+	<div class="about-section" id="about">
+		<h2>About Us</h2>
+		<p>IEEE JUSB is the student chapter of the Institute of Electrical and Electronics Engineers (IEEE) at Jaypee University of Engineering and Technology (JUET), Guna. We aim to promote the understanding of electrical, electronics, and computer engineering to the university community, through various events, workshops, and seminars.</p>
+	</div>
+
+	<!-- Technical Team Section -->
+	<div class="team-section" id="technical-team">
+		<h2>Technical Team</h2>
+		<p>Our technical team aims to provide students with a platform to explore their technical skills by organizing workshops, seminars, and hackathons. This team works on projects related to the latest technology and innovations.</p>
+		<img src="image.png">
+	</div>
+
+	<!-- Event Management Team Section -->
+	<div class="team-section" id="event-management-team">
+		<h2>Event Management Team</h2>
+		<p>Our event management team is responsible for organizing various events and competitions throughout the year. They take care of the logistics, planning, and execution of these events.</p>
+		<img src="image.png">
+	</div>
+
+	<!-- Public Relations Team Section -->
+	<div class="team-section" id="public-relations-team">
+		<h2>Public Relations Team</h2>
+		<p>Our public relations team is responsible for spreading awareness about IEEE JUSB and its activities. They maintain our social media handles and communicate with the public and media.</p>
+		<img src="image.png">
+	</div>
+
+	<!-- Design Team Section -->
+	<div class="team-section" id="design-team">
+		<h2>Design Team</h2>
+		<p>Our design team works on designing posters and banners.</p>
+        <img src="image.png">
+    </div>
+
+    <!-- Contact us -->
+    <button class="dropbtn">contact 
+        <i class="fa fa-caret-down"></i>
+    </button>
